@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noor1992/app1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noor1992/app1/issues"
+  },
+  "homepage": "https://github.com/noor1992/app1#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "package.json": "^2.0.1"
+  }
+}
