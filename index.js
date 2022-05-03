@@ -5,6 +5,8 @@ app.get('/', (req, res) => {
 res.send('<h1><center>Nodejs app workig<center></h1>');
 });
 
-app.listen(3001, () => {
-  console.log('App listening on port 3001!');
+
+app.listen(3005, () => {
+  console.log('App listening on port 3005!');
+
 });
